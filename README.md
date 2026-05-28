@@ -28,17 +28,21 @@
 
 ## 🧠 RISC-V Pipelined Processor Design (Verilog RTL)
 
-Designed and implemented a **RISC-V pipelined processor and implimentation on FPGA** using Verilog RTL.
+Designed and implemented a **RISC-V pipelined processor and implementation on FPGA** using Verilog RTL.
 
 ### ✅ Features Implemented
 
 * 5-Stage Pipeline Architecture
 * Hazard Detection Unit
+* Forwarding Unit
+* Control Unit
 
 ### 🛠️ Tools Used
 
 * Verilog HDL
 * Xilinx Vivado FPGA Suite
+
+---
 
 # 📂 Other Projects
 
@@ -69,8 +73,8 @@ Designed and implemented a **RISC-V pipelined processor and implimentation on FP
 ## 📫 Connect With Me
 
 * 📧 Email: [khainursiddu04@gmail.com](mailto:khainursiddu04@gmail.com)
-* 💼 LinkedIn: [Add Your LinkedIn Link](https://www.linkedin.com/in/siddu-khainur-14a16a2a3?utm_source=share_via&utm_content=profile&utm_medium=member_android)
-* 💻 GitHub: [Add Your GitHub Profile Link]()
+* 💼 LinkedIn: [Siddu Khainur](https://www.linkedin.com/in/siddu-khainur-14a16a2a3)
+* 💻 GitHub: [Siddumk-17](https://github.com/Siddumk-17)
 
 ---
 
